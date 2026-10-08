@@ -115,8 +115,6 @@ jupyter lab
 
 ## Output files
 
-Outputs are written to a dated folder on the Desktop (`~/Desktop/YYYYMMDD_glyco_analysis/`). These include:
-
 - ROI summary CSV
 - Ripley's H metadata CSV
 - DBSCAN summary and statistics CSVs
@@ -124,15 +122,11 @@ Outputs are written to a dated folder on the Desktop (`~/Desktop/YYYYMMDD_glyco_
 - PNG figures (600 dpi)
 - `cluster_overlays/` and `cluster_visualisations/` subfolders
 
-## Acknowledgements
-
-The workflow is adapted from [glyco-PAINT-analysis](https://github.com/bruno-stojcic/glyco-PAINT-analysis) by Bruno Stojcic. [ADD SUPERVISOR / LAB]
-
 ## Citation
 
 If you use this code, please cite:
 
-> [YOUR NAME] ([YEAR]). *[THESIS TITLE]*. MSc thesis, [UNIVERSITY].
+> [Theresa Roewer] ([2026]). *[Cryo-Super-Resolution: Establishing a Universal Structural Preservation Method for Nanoscale Imaging]*. MSc thesis, [Karolinska Institutet].
 
 ## License
 
