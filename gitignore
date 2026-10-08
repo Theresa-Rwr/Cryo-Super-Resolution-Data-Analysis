@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Data and outputs (do not commit raw microscopy data)
+*.csv
+*.txt
+!requirements.txt
+*_glyco_analysis/
